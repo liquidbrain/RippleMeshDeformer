@@ -9,7 +9,7 @@
 // GLM: OpenGL Math
 #include <glm/glm.hpp>
 
-class GLSLProgram
+class GLSLProgram final
 {
 public:
     GLSLProgram();
